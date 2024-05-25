@@ -1,0 +1,1864 @@
+<?xml version='1.0'?>
+  <!--Warning : Don't edit this file -->
+  <instance class="PJM">
+    <rowset name="PjmDefn" size="2832" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-22.59.11.666177</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <szObjectOwnerID></szObjectOwnerID>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>418</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szProjectName>C_BEISEN_PKG</szProjectName>
+        <szLanguageCd>ZHS</szLanguageCd>
+        <szProjectDescr>对接北森系统工程</szProjectDescr>
+        <szSrcDBName>HCMDMO</szSrcDBName>
+        <szSrcOprId>panwx</szSrcOprId>
+        <szSessionId>6d1c30c3-1aa7-11ef-91db-b7f9d7eef49a</szSessionId>
+        <szRunDtTm>2024-05-25-22.59.46.665967</szRunDtTm>
+        <szTgtServerName></szTgtServerName>
+        <szTgtDBName></szTgtDBName>
+        <szTgtOprId></szTgtOprId>
+        <fReportFilter>16232832</fReportFilter>
+        <eTargetOrientation>0</eTargetOrientation>
+        <eCompareType>1</eCompareType>
+        <fKeepTgt>31</fKeepTgt>
+        <nCommitLimit>50</nCommitLimit>
+        <szCompRelease></szCompRelease>
+        <szCompRelDttm></szCompRelDttm>
+        <bMaintenanceProject>0</bMaintenanceProject>
+        <bUseDbFieldNameAttrib>0</bUseDbFieldNameAttrib>
+        <szReleaseLabel></szReleaseLabel>
+        <szReleaseDttm></szReleaseDttm>
+        <nDescrLongLen>0</nDescrLongLen>
+        <hDescrLong>HANDLE</hDescrLong>
+        <nProjectCount>11</nProjectCount>
+        <lpPit> POINTER
+          <rowset name="PjmPit" size="9416" count="11">
+            <row>
+              <eObjectType>25</eObjectType>
+              <szObjectValue_0>30013</szObjectValue_0>
+              <szObjectValue_1>1</szObjectValue_1>
+              <szObjectValue_2>北森系统对接</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>48</eObjectID_0>
+              <eObjectID_1>49</eObjectID_1>
+              <eObjectID_2>50</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>25</eObjectType>
+              <szObjectValue_0>30013</szObjectValue_0>
+              <szObjectValue_1>2</szObjectValue_1>
+              <szObjectValue_2>北森系统对接</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>48</eObjectID_0>
+              <eObjectID_1>49</eObjectID_1>
+              <eObjectID_2>50</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>56</eObjectType>
+              <szObjectValue_0>UIH_BEISEN</szObjectValue_0>
+              <szObjectValue_1></szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>103</eObjectID_0>
+              <eObjectID_1>0</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>1</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>57</eObjectType>
+              <szObjectValue_0>COMMON</szObjectValue_0>
+              <szObjectValue_1>C_BEISEN_PKG</szObjectValue_1>
+              <szObjectValue_2>:</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>116</eObjectID_1>
+              <eObjectID_2>117</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>57</eObjectType>
+              <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+              <szObjectValue_1>C_BEISEN_PKG</szObjectValue_1>
+              <szObjectValue_2>.</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>116</eObjectID_1>
+              <eObjectID_2>117</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+              <szObjectValue_1>COMMON</szObjectValue_1>
+              <szObjectValue_2>Apply</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>105</eObjectID_1>
+              <eObjectID_2>107</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+              <szObjectValue_1>COMMON</szObjectValue_1>
+              <szObjectValue_2>RecruitOnBoarding</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>105</eObjectID_1>
+              <eObjectID_2>107</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+              <szObjectValue_1>COMMON</szObjectValue_1>
+              <szObjectValue_2>Requirement</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>105</eObjectID_1>
+              <eObjectID_2>107</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+              <szObjectValue_1>JsonHandler</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+              <szObjectValue_1>RequestHandler</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+              <szObjectValue_1>Token</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+          </rowset>
+        </lpPit>
+        <nAdsBindingCount>0</nAdsBindingCount>
+        <pPrjAdsBinding>POINTER</pPrjAdsBinding>
+        <bCopyAllSec>1</bCopyAllSec>
+        <bCompAllSec>1</bCompAllSec>
+        <nSecCount>70</nSecCount>
+        <lpSec> POINTER
+          <rowset name="PjmSec" size="1400" count="70">
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>COMMON</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ARA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>BUL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>CFR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>CRO</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>CZE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>DAN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>DUT</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ENG</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ESP</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>FIN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>FRA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>GER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>GRK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>HEB</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>HUN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ITA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>JPN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>KOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>MAY</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>NOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>POL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>POR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ROM</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>RUS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SLK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SLV</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SVE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>THA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>TUR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>UKE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>VIE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ZHS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ZHT</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>COMMON</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ARA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>BUL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>CFR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>CRO</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>CZE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>DAN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>DUT</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ENG</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ESP</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>FIN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>FRA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>GER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>GRK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>HEB</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>HUN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ITA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>JPN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>KOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>MAY</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>NOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>POL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>POR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ROM</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>RUS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SLK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SLV</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SVE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>THA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>TUR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>UKE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>VIE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ZHS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ZHT</szSectionName>
+            </row>
+          </rowset>
+        </lpSec>
+        <nIncCount>0</nIncCount>
+        <lpInc>POINTER</lpInc>
+        <nDepCount>0</nDepCount>
+        <lpDep>POINTER</lpDep>
+        <nLangCount>1</nLangCount>
+        <hLang> HANDLE
+          <rowset name="PjmDefnLang" size="88" count="1">
+            <row>
+              <szProjectDescr>对接北森系统工程</szProjectDescr>
+              <nDescrLongLen>0</nDescrLongLen>
+              <hDescrLong>HANDLE</hDescrLong>
+              <szLanguageCd>ENG</szLanguageCd>
+            </row>
+          </rowset>
+        </hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="URL">
+    <rowset name="UrlDefn" size="1008" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-17.36.38.542551</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <szObjectOwnerID></szObjectOwnerID>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>52</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szUrlId>UIH_BEISEN</szUrlId>
+        <szLanguageCd>ZHS</szLanguageCd>
+        <szDescr>北森接口地址URI</szDescr>
+        <szUrl>https://openapi.italent.cn</szUrl>
+        <cIClientServerFlag> </cIClientServerFlag>
+        <nCommentsLen>42</nCommentsLen>
+        <hComments> HANDLE
+          <rowset name="char" size="42" count="1">
+            <row>
+              <hComments>add by pwj 2024/04/19</hComments>
+            </row>
+          </rowset>
+        </hComments>
+        <nLangCount>1</nLangCount>
+        <hLang> HANDLE
+          <rowset name="UrlDefnLang" size="592" count="1">
+            <row>
+              <szLanguageCd>ENG</szLanguageCd>
+              <szDescr>北森接口地址URI</szDescr>
+              <szUrl>https://openapi.italent.cn</szUrl>
+              <nCommentsLen>42</nCommentsLen>
+              <hComments> HANDLE
+                <rowset name="char" size="42" count="1">
+                  <row>
+                    <hComments>add by pwj 2024/04/19</hComments>
+                  </row>
+                </rowset>
+              </hComments>
+            </row>
+          </rowset>
+        </hLang>
+        <nPropertyCount>1</nPropertyCount>
+        <hProperties> HANDLE
+          <rowset name="UrlProperties" size="526" count="1">
+            <row>
+              <szProperty></szProperty>
+              <szValue></szValue>
+              <szTransferProtocol>HTTPS</szTransferProtocol>
+            </row>
+          </rowset>
+        </hProperties>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="APM">
+    <rowset name="ApmDefn" size="968" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-17.57.33.988517</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>55</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szPackageId>COMMON</szPackageId>
+        <szLanguageCd>ZHS</szLanguageCd>
+        <szPackageRoot>C_BEISEN_PKG</szPackageRoot>
+        <szQualifyPath>:</szQualifyPath>
+        <lPackageLevel>1</lPackageLevel>
+        <szPackageRef></szPackageRef>
+        <szDescr></szDescr>
+        <lDescrLongLen>0</lDescrLongLen>
+        <lpszDescrLong>POINTER</lpszDescrLong>
+        <eRenameObject>0</eRenameObject>
+        <szPrevPackageId></szPrevPackageId>
+        <ApmDefnList.lClassCount>3</ApmDefnList.lClassCount>
+        <ApmDefnList.hDefnClassList> HANDLE
+          <rowset name="ApmClassList" size="1392" count="3">
+            <row>
+              <ApmClassKey.szClassId>Apply</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>C_BEISEN_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>COMMON</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>2</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>Apply</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>RecruitOnBoarding</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>C_BEISEN_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>COMMON</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>2</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>RecruitOnBoarding</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>Requirement</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>C_BEISEN_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>COMMON</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>2</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>Requirement</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+          </rowset>
+        </ApmDefnList.hDefnClassList>
+        <ApmDefnList.lPackageCount>0</ApmDefnList.lPackageCount>
+        <ApmDefnList.hDefnPackageList>HANDLE</ApmDefnList.hDefnPackageList>
+        <nLangCount>1</nLangCount>
+        <hLang> HANDLE
+          <rowset name="ApmDefnLang" size="88" count="1">
+            <row>
+              <szLanguageCd>ENG</szLanguageCd>
+              <szDescr></szDescr>
+              <lDescrLongLen>0</lDescrLongLen>
+              <lpszDescrLong>POINTER</lpszDescrLong>
+            </row>
+          </rowset>
+        </hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="APM">
+    <rowset name="ApmDefn" size="968" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-17.57.33.988512</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>55</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szPackageId>C_BEISEN_PKG</szPackageId>
+        <szLanguageCd>ZHS</szLanguageCd>
+        <szPackageRoot>C_BEISEN_PKG</szPackageRoot>
+        <szQualifyPath>.</szQualifyPath>
+        <lPackageLevel>0</lPackageLevel>
+        <szPackageRef></szPackageRef>
+        <szDescr>北森相关应用程序包</szDescr>
+        <lDescrLongLen>0</lDescrLongLen>
+        <lpszDescrLong>POINTER</lpszDescrLong>
+        <eRenameObject>0</eRenameObject>
+        <szPrevPackageId></szPrevPackageId>
+        <ApmDefnList.lClassCount>3</ApmDefnList.lClassCount>
+        <ApmDefnList.hDefnClassList> HANDLE
+          <rowset name="ApmClassList" size="1392" count="3">
+            <row>
+              <ApmClassKey.szClassId>JsonHandler</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>C_BEISEN_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>JsonHandler</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>RequestHandler</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>C_BEISEN_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>RequestHandler</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>Token</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>C_BEISEN_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>Token</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+          </rowset>
+        </ApmDefnList.hDefnClassList>
+        <ApmDefnList.lPackageCount>1</ApmDefnList.lPackageCount>
+        <ApmDefnList.hDefnPackageList> HANDLE
+          <rowset name="ApmPackageList" size="488" count="1">
+            <row>
+              <ApmDefnKey.szPackageId>COMMON</ApmDefnKey.szPackageId>
+              <ApmDefnKey.szPackageRoot>C_BEISEN_PKG</ApmDefnKey.szPackageRoot>
+              <ApmDefnKey.szQualifyPath>:</ApmDefnKey.szQualifyPath>
+              <szPackageRef></szPackageRef>
+              <lPackageLevel>1</lPackageLevel>
+            </row>
+          </rowset>
+        </ApmDefnList.hDefnPackageList>
+        <nLangCount>1</nLangCount>
+        <hLang> HANDLE
+          <rowset name="ApmDefnLang" size="88" count="1">
+            <row>
+              <szLanguageCd>ENG</szLanguageCd>
+              <szDescr>北森相关应用程序包</szDescr>
+              <lDescrLongLen>0</lDescrLongLen>
+              <lpszDescrLong>POINTER</lpszDescrLong>
+            </row>
+          </rowset>
+        </hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-18.24.04.776936</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>88698</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+        <eObjectID_1>105</eObjectID_1>
+        <szObjectValue_1>COMMON</szObjectValue_1>
+        <eObjectID_2>107</eObjectID_2>
+        <szObjectValue_2>Apply</szObjectValue_2>
+        <eObjectID_3>12</eObjectID_3>
+        <szObjectValue_3>OnExecute</szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>5</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>1454</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>194</lEntryNamesLen>
+              <nEntry>4</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>4</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="2670" count="5">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>REQUESTHANDLER</szFieldName>
+              <szPackageRoot>C_BEISEN_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONARRAY</szFieldName>
+              <szPackageRoot>JsonArray</szPackageRoot>
+              <szQualifyPath>JsonArray</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MESSAGE</szFieldName>
+              <szPackageRoot>Message</szPackageRoot>
+              <szQualifyPath>Message</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONOBJECT</szFieldName>
+              <szPackageRoot>JsonObject</szPackageRoot>
+              <szQualifyPath>JsonObject</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>import C_BEISEN_PKG:RequestHandler;
+
+/* 申请相关接口 */
+class Apply
+   property C_BEISEN_PKG:RequestHandler RequestHandler;
+   
+   /* 构造函数 */
+   method Apply();
+   
+   /* 根据申请ID获取申请信息 */
+   method getApplyListByApplyId(&amp;applyIds As JsonArray, &amp;fieldNames As JsonArray) Returns Message;
+end-class;
+
+
+method Apply
+   &amp;RequestHandler = create C_BEISEN_PKG:RequestHandler();
+end-method;
+
+
+method getApplyListByApplyId
+   /+ &amp;applyIds as JsonArray, +/
+   /+ &amp;fieldNames as JsonArray +/
+   /+ Returns Message +/
+   Local Message &amp;respMessage;
+   
+   REM URL;
+   Local string &amp;url = &quot;/RecruitV6/api/v1/Apply/GetApplyListByApplyId&quot;;
+   
+   REM 请求报文;
+   Local JsonObject &amp;requestObject = CreateJsonObject();
+   &amp;requestObject.AddJsonArray(&quot;applyIds&quot;, &amp;applyIds);
+   &amp;requestObject.AddJsonArray(&quot;fieldNames&quot;, &amp;fieldNames);
+   
+   &amp;respMessage = &amp;RequestHandler.SendPostRequest(&amp;url, &amp;requestObject.ToString());
+   Return &amp;respMessage;
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-18.24.29.777007</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>88699</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+        <eObjectID_1>105</eObjectID_1>
+        <szObjectValue_1>COMMON</szObjectValue_1>
+        <eObjectID_2>107</eObjectID_2>
+        <szObjectValue_2>RecruitOnBoarding</szObjectValue_2>
+        <eObjectID_3>12</eObjectID_3>
+        <szObjectValue_3>OnExecute</szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>5</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>6748</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>302</lEntryNamesLen>
+              <nEntry>7</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>20</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="2670" count="5">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>REQUESTHANDLER</szFieldName>
+              <szPackageRoot>C_BEISEN_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONARRAY</szFieldName>
+              <szPackageRoot>JsonArray</szPackageRoot>
+              <szQualifyPath>JsonArray</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MESSAGE</szFieldName>
+              <szPackageRoot>Message</szPackageRoot>
+              <szQualifyPath>Message</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONOBJECT</szFieldName>
+              <szPackageRoot>JsonObject</szPackageRoot>
+              <szQualifyPath>JsonObject</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>import C_BEISEN_PKG:RequestHandler;
+
+/* 入职管理相关接口 */
+class RecruitOnBoarding
+   property C_BEISEN_PKG:RequestHandler RequestHandler;
+   
+   /* 构造函数 */
+   method RecruitOnBoarding();
+   
+   /* 查询offer信息 */
+   method GetOfferInfos(&amp;contentScene As integer, &amp;items As JsonArray) Returns Message;
+   
+   /* 查询待入职人员信息 */
+   method GetStaffInfos(&amp;items As JsonArray) Returns Message;
+   
+   /* 获取offerId */
+   method GetOfferIds(&amp;approvalState As string, &amp;offerState As string, &amp;isModify As boolean, &amp;startTime As datetime, &amp;endTime As datetime, &amp;batchId As string) Returns Message;
+   
+   /* 获取待入职员工Id */
+   method GetStaffIds(&amp;staffStatus As string, &amp;infoCollectionStatus As string, &amp;isModify As boolean, &amp;startTime As datetime, &amp;endTime As datetime, &amp;batchId As string) Returns Message;
+end-class;
+
+
+method RecruitOnBoarding
+   &amp;RequestHandler = create C_BEISEN_PKG:RequestHandler();
+end-method;
+
+
+method GetOfferInfos
+   /+ &amp;contentScene as Integer, +/
+   /+ &amp;items as JsonArray +/
+   /+ Returns Message +/
+   Local Message &amp;respMessage;
+   Local string &amp;url;
+   
+   If &amp;contentScene = 1 Then
+      &amp;url = &quot;/RecruitV6/api/v1/RecruitOnBoarding/GetOfferInfos?contentScene=1&quot;;
+   Else
+      &amp;url = &quot;/RecruitV6/api/v1/RecruitOnBoarding/GetOfferInfos&quot;;
+   End-If;
+   
+   &amp;respMessage = &amp;RequestHandler.SendPostRequest(&amp;url, &amp;items.ToString());
+   
+   Return &amp;respMessage;
+end-method;
+
+
+method GetStaffInfos
+   /+ &amp;items as JsonArray +/
+   /+ Returns Message +/
+   Local Message &amp;respMessage;
+   
+   Local string &amp;url = &quot;/RecruitV6/api/v1/RecruitOnBoarding/GetStaffInfos&quot;;
+   
+   &amp;respMessage = &amp;RequestHandler.SendPostRequest(&amp;url, &amp;items.ToString());
+   
+   Return &amp;respMessage;
+end-method;
+
+
+method GetOfferIds
+   /+ &amp;approvalState as String, +/
+   /+ &amp;offerState as String, +/
+   /+ &amp;isModify as Boolean, +/
+   /+ &amp;startTime as DateTime, +/
+   /+ &amp;endTime as DateTime, +/
+   /+ &amp;batchId as String +/
+   /+ Returns Message +/
+   Local Message &amp;respMessage;
+   Local string &amp;url = &quot;/RecruitV6/api/v1/RecruitOnBoarding/GetOfferIds&quot;;
+   
+   /* 填充请求报文 bgn */
+   Local JsonObject &amp;requestObject = CreateJsonObject();
+   
+   REM 审批状态;
+   If All(&amp;approvalState) Then
+      &amp;requestObject.AddProperty(&quot;approvalState&quot;, Value(&amp;approvalState));
+   End-If;
+   
+   REM Offer状态;
+   If All(&amp;offerState) Then
+      &amp;requestObject.AddProperty(&quot;offerState&quot;, Value(&amp;offerState));
+   End-If;
+   
+   REM 是否按修改时间查询;
+   &amp;requestObject.AddProperty(&quot;isModify&quot;, &amp;isModify);
+   
+   REM 开始时间;
+   &amp;requestObject.AddProperty(&quot;startTime&quot;, DateTimeToLocalizedString(&amp;startTime, &quot;yyyy-MM-dd'T'HH:mm:ss&quot;));
+   
+   REM 结束时间;
+   &amp;requestObject.AddProperty(&quot;endTime&quot;, DateTimeToLocalizedString(&amp;endTime, &quot;yyyy-MM-dd'T'HH:mm:ss&quot;));
+   
+   REM 批次ID;
+   &amp;requestObject.AddProperty(&quot;batchId&quot;, &amp;batchId);
+   /* 填充请求报文 end */
+   
+   REM 发送请求;
+   &amp;respMessage = &amp;RequestHandler.SendPostRequest(&amp;url, &amp;requestObject.ToString());
+   
+   Return &amp;respMessage;
+end-method;
+
+
+method GetStaffIds
+   /+ &amp;staffStatus as String, +/
+   /+ &amp;infoCollectionStatus as String, +/
+   /+ &amp;isModify as Boolean, +/
+   /+ &amp;startTime as DateTime, +/
+   /+ &amp;endTime as DateTime, +/
+   /+ &amp;batchId as String +/
+   /+ Returns Message +/
+   Local Message &amp;respMessage;
+   
+   Local string &amp;url = &quot;/RecruitV6/api/v1/RecruitOnBoarding/GetStaffIds&quot;;
+   
+   /* 填充请求报文 bgn */
+   Local JsonObject &amp;requestObject = CreateJsonObject();
+   
+   REM 员工状态;
+   If All(&amp;staffStatus) Then
+      &amp;requestObject.AddProperty(&quot;staffStatus&quot;, Value(&amp;staffStatus));
+   End-If;
+   
+   REM 员工信息采集状态;
+   If All(&amp;infoCollectionStatus) Then
+      &amp;requestObject.AddProperty(&quot;infoCollectionStatus&quot;, Value(&amp;infoCollectionStatus));
+   End-If;
+   
+   REM 是否按修改时间查询;
+   If &amp;isModify Then
+      &amp;requestObject.AddProperty(&quot;isModify&quot;, True);
+   Else
+      &amp;requestObject.AddProperty(&quot;isModify&quot;, False);
+   End-If;
+   
+   REM 结束时间;
+   &amp;requestObject.AddProperty(&quot;endTime&quot;, DateTimeToLocalizedString(&amp;endTime, &quot;yyyy-MM-dd'T'hh:mm:ss&quot;));
+   
+   REM 开始时间;
+   &amp;requestObject.AddProperty(&quot;startTime&quot;, DateTimeToLocalizedString(&amp;startTime, &quot;yyyy-MM-dd'T'hh:mm:ss&quot;));
+   
+   REM 批次ID;
+   If All(&amp;batchId) Then
+      &amp;requestObject.AddProperty(&quot;batchId&quot;, &amp;batchId);
+   End-If;
+   /* 填充请求报文 end */
+   
+   &amp;respMessage = &amp;RequestHandler.SendPostRequest(&amp;url, &amp;requestObject.ToString());
+   Return &amp;respMessage;
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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dQBlAHMAdAALAQgmAHUAcgBsAAMBDCYAaQB0AGUAbQBzAAUKEFQAbwBTAHQAcgBpAG4AZwALFBQVTzgBGCYAcgBlAHMAcABNAGUAcwBzAGEAZwBlABVkFS1PT2NBChZHAGUAdABPAGYAZgBlAHIASQBkAHMALW0yJgBhAHAAcAByAG8AdgBhAGwAUwB0AGEAdABlACAAYQBzACAAUwB0AHIAaQBuAGcALABtLCYAbwBmAGYAZQByAFMAdABhAHQAZQAgAGEAcwAgAFMAdAByAGkAbgBnACwAbSomAGkAcwBNAG8AZABpAGYAeQAgAGEAcwAgAEIAbwBvAGwAZQBhAG4ALABtLiYAcwB0AGEAcgB0AFQAaQBtAGUAIABhAHMAIABEAGEAdABlAFQAaQBtAGUALABtKiYAZQBuAGQAVABpAG0AZQAgAGEAcwAgAEQAYQB0AGUAVABpAG0AZQAsAG0kJgBiAGEAdABjAGgASQBkACAAYQBzACAAUwB0AHIAaQBuAGcAbR5SAGUAdAB1AHIAbgBzACAATQBlAHMAcwBhAGcAZQBECg5NAGUAcwBzAGEAZwBlAAEYJgByAGUAcwBwAE0AZQBzAHMAYQBnAGUAFURADHMAdAByAGkAbgBnAAEIJgB1AHIAbAAGFl4vAFIAZQBjAHIAdQBpAHQAVgA2AC8AYQBwAGkALwB2ADEALwBSAGUAYwByAHUAaQB0AE8AbgBCAG8AYQByAGQAaQBuAGcALwBHAGUAdABPAGYAZgBlAHIASQBkAHMAFU8kIAAgLwAqACAAa1hFUfeLQmylYodlIABiAGcAbgAgACoALwBEChRKAHMAbwBuAE8AYgBqAGUAYwB0AAEcJgByAGUAcQB1AGUAcwB0AE8AYgBqAGUAYwB0AAYKIEMAcgBlAGEAdABlAEoAcwBvAG4ATwBiAGoAZQBjAHQACxQVTyQSABJSAEUATQAgAKFbeWK2cgFgOwAcCgZBAGwAbAALARwmAGEAcABwAHIAbwB2AGEAbABTAHQAYQB0AGUAFB8BHCYAcgBlAHEAdQBlAHMAdABPAGIAagBlAGMAdAAFChZBAGQAZABQAHIAbwBwAGUAcgB0AHkACxYaYQBwAHAAcgBvAHYAYQBsAFMAdABhAHQAZQADCgpWAGEAbAB1AGUACwEcJgBhAHAAcAByAG8AdgBhAGwA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</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-18.24.29.777075</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>88699</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+        <eObjectID_1>105</eObjectID_1>
+        <szObjectValue_1>COMMON</szObjectValue_1>
+        <eObjectID_2>107</eObjectID_2>
+        <szObjectValue_2>Requirement</szObjectValue_2>
+        <eObjectID_3>12</eObjectID_3>
+        <szObjectValue_3>OnExecute</szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>5</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>1210</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>206</lEntryNamesLen>
+              <nEntry>4</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>3</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="2670" count="5">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>REQUESTHANDLER</szFieldName>
+              <szPackageRoot>C_BEISEN_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONARRAY</szFieldName>
+              <szPackageRoot>JsonArray</szPackageRoot>
+              <szQualifyPath>JsonArray</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MESSAGE</szFieldName>
+              <szPackageRoot>Message</szPackageRoot>
+              <szQualifyPath>Message</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONOBJECT</szFieldName>
+              <szPackageRoot>JsonObject</szPackageRoot>
+              <szQualifyPath>JsonObject</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>import C_BEISEN_PKG:RequestHandler;
+
+/* 招聘需求相关接口 */
+class Requirement
+   property C_BEISEN_PKG:RequestHandler RequestHandler;
+   
+   /* 构造函数 */
+   method Requirement();
+   
+   /* 根据招聘需求ID获取招聘需求 */
+   method GetRequirements(&amp;items As JsonArray) Returns Message;
+end-class;
+
+
+method Requirement
+   &amp;RequestHandler = create C_BEISEN_PKG:RequestHandler();
+end-method;
+
+
+method GetRequirements
+   /+ &amp;items as JsonArray +/
+   /+ Returns Message +/
+   Local Message &amp;respMessage;
+   Local string &amp;url;
+   
+   &amp;url = &quot;/RecruitV6/api/v1/Requirement/GetRequirements&quot;;
+   
+   Local JsonObject &amp;requestObject = CreateJsonObject();
+   &amp;requestObject.AddJsonArray(&quot;items&quot;, &amp;items);
+   
+   &amp;respMessage = &amp;RequestHandler.SendPostRequest(&amp;url, &amp;requestObject.ToString());
+   Return &amp;respMessage;
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-22.55.23.666211</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>88816</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>JsonHandler</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>6</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>5740</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>242</lEntryNamesLen>
+              <nEntry>6</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>11</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="3204" count="6">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MESSAGE</szFieldName>
+              <szPackageRoot>Message</szPackageRoot>
+              <szQualifyPath>Message</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONOBJECT</szFieldName>
+              <szPackageRoot>JsonObject</szPackageRoot>
+              <szQualifyPath>JsonObject</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONARRAY</szFieldName>
+              <szPackageRoot>JsonArray</szPackageRoot>
+              <szQualifyPath>JsonArray</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONPARSER</szFieldName>
+              <szPackageRoot>JsonParser</szPackageRoot>
+              <szQualifyPath>JsonParser</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONNODE</szFieldName>
+              <szPackageRoot>JsonNode</szPackageRoot>
+              <szQualifyPath>JsonNode</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>class JsonHandler
+   /* 构造函数 */
+   method JsonHandler();
+   
+   /* 获取北森的响应报文-JsonObject */
+   method GetResponseObjectData(&amp;ResMsg As Message) Returns JsonObject;
+   
+   /* 获取北森的响应报文-JsonArray */
+   method GetResponseArrayData(&amp;ResMsg As Message) Returns JsonArray;
+   
+   /* 获取扩展字段信息-ByText */
+   method GetExtendInfoByText(&amp;extendInfos As JsonArray, &amp;Name As string) Returns string;
+   
+   /* 获取扩展字段信息-ByValue */
+   method GetExtendInfoByValue(&amp;extendInfos As JsonArray, &amp;Name As string) Returns any;
+end-class;
+
+
+method JsonHandler
+   
+end-method;
+
+
+method GetResponseObjectData
+   /+ &amp;ResMsg as Message +/
+   /+ Returns JsonObject +/
+   Local JsonObject &amp;ResponseData;
+   If &amp;ResMsg.HTTPResponseCode = %IB_Status_Success Then
+      Local JsonParser &amp;Jparser = CreateJsonParser();
+      If &amp;Jparser.Parse(&amp;ResMsg.GetContentString()) Then
+         &amp;ResponseData = &amp;Jparser.GetRootObject().GetJsonObject(&quot;data&quot;);
+      Else
+         throw CreateException(0, 0, &quot;解析Json失败，报文:&quot; | &amp;ResMsg.GetContentString());
+      End-If;
+   Else
+      throw CreateException(0, 0, &quot;状态码:&quot; | &amp;ResMsg.HTTPResponseCode | Char(10) | &quot;报文:&quot; | &amp;ResMsg.GetContentString());
+   End-If;
+   
+   Return &amp;ResponseData;
+end-method;
+
+
+method GetResponseArrayData
+   /+ &amp;ResMsg as Message +/
+   /+ Returns JsonArray +/
+   Local JsonArray &amp;ResponseData;
+   If &amp;ResMsg.HTTPResponseCode = %IB_Status_Success Then
+      Local JsonParser &amp;Jparser = CreateJsonParser();
+      If &amp;Jparser.Parse(&amp;ResMsg.GetContentString()) Then
+         &amp;ResponseData = &amp;Jparser.GetRootObject().GetJsonArray(&quot;data&quot;);
+      Else
+         throw CreateException(0, 0, &quot;解析Json失败，报文:&quot; | &amp;ResMsg.GetContentString());
+      End-If;
+   Else
+      throw CreateException(0, 0, &quot;状态码:&quot; | &amp;ResMsg.HTTPResponseCode | Char(10) | &quot;报文:&quot; | &amp;ResMsg.GetContentString());
+   End-If;
+   
+   Return &amp;ResponseData;
+end-method;
+
+
+method GetExtendInfoByText
+   /+ &amp;extendInfos as JsonArray, +/
+   /+ &amp;Name as String +/
+   /+ Returns String +/
+   Local integer &amp;i;
+   Local string &amp;Text;
+   For &amp;i = 1 To &amp;extendInfos.Length()
+      Local JsonObject &amp;extendInfo = &amp;extendInfos.GetJsonObject(&amp;i);
+      If &amp;extendInfo.GetString(&quot;name&quot;) = &amp;Name Then
+         /* IsNullProperty有BUG,不管这个属性是不是空的都会返回True,换JsonNode来判断 */
+         REM If &amp;extendInfo.IsNullProperty(&quot;text&quot;) Then ;
+         Local JsonNode &amp;node = &amp;extendInfo.GetJsonNode(&quot;text&quot;);
+         If &amp;node.GetValueType() = 6 Then
+            &amp;Text = &amp;extendInfo.GetString(&quot;text&quot;);
+         End-If;
+         Break;
+      End-If;
+   End-For;
+   Return &amp;Text;
+end-method;
+
+
+method GetExtendInfoByValue
+   /+ &amp;extendInfos as JsonArray, +/
+   /+ &amp;Name as String +/
+   /+ Returns Any +/
+   Local integer &amp;i;
+   Local any &amp;Value = Null;
+   For &amp;i = 1 To &amp;extendInfos.Length()
+      Local JsonObject &amp;extendInfo = &amp;extendInfos.GetJsonObject(&amp;i);
+      If &amp;extendInfo.GetString(&quot;name&quot;) = &amp;Name Then
+         /* IsNullProperty有BUG,不管这个属性是不是空的都会返回True,换JsonNode来判断 */
+         REM If &amp;extendInfo.IsNullProperty(&quot;value&quot;) Then ;
+         Local JsonNode &amp;node = &amp;extendInfo.GetJsonNode(&quot;value&quot;);
+         Evaluate &amp;node.GetValueType()
+         When 0
+            REM 无效的Json;
+            Break;
+         When 1
+            &amp;Value = &amp;extendInfo.GetInteger(&quot;value&quot;);
+            Break;
+         When 2
+            &amp;Value = &amp;extendInfo.GetFloat(&quot;value&quot;);
+            Break;
+         When 3
+            REM Double;
+            &amp;Value = &amp;extendInfo.GetNumber(&quot;value&quot;);
+            Break;
+         When 4
+            REM Number;
+            &amp;Value = &amp;extendInfo.GetNumber(&quot;value&quot;);
+            Break;
+         When 5
+            &amp;Value = &amp;extendInfo.GetBoolean(&quot;value&quot;);
+            Break;
+         When 6
+            &amp;Value = &amp;extendInfo.GetString(&quot;value&quot;);
+            Break;
+         When 7
+            REM Null;
+            Break;
+         When 8
+            &amp;Value = &amp;extendInfo.GetDate(&quot;value&quot;);
+            Break;
+         When 9
+            &amp;Value = &amp;extendInfo.GetTime(&quot;value&quot;);
+            Break;
+         When 10
+            &amp;Value = &amp;extendInfo.GetDateTime(&quot;value&quot;);
+            Break;
+         End-Evaluate;
+         Break;
+      End-If;
+   End-For;
+   Return &amp;Value;
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-17.53.03.542458</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>88689</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>RequestHandler</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>5</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>2703</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>118</lEntryNamesLen>
+              <nEntry>3</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>4</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="2670" count="5">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>TOKEN</szFieldName>
+              <szPackageRoot>C_BEISEN_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MESSAGE</szFieldName>
+              <szPackageRoot>Message</szPackageRoot>
+              <szQualifyPath>Message</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>URL</szRecName>
+              <szFieldName>UIH_BEISEN</szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>OPERATION</szRecName>
+              <szFieldName>IB_GENERIC_REST_POST</szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>import C_BEISEN_PKG:Token;
+
+class RequestHandler
+   /* 构造函数 */
+   method RequestHandler();
+   
+   /* 发送请求 */
+   method SendPostRequest(&amp;path As string, &amp;requestBody As string) Returns Message;
+end-class;
+
+Global C_BEISEN_PKG:Token &amp;token;
+
+method RequestHandler
+   If &amp;token = Null Then
+      &amp;token = create C_BEISEN_PKG:Token();
+   End-If;
+end-method;
+
+
+method SendPostRequest
+   /+ &amp;path as String, +/
+   /+ &amp;requestBody as String +/
+   /+ Returns Message +/
+   
+   Local Message &amp;reqMessage, &amp;respMessage;
+   Local boolean &amp;bool;
+   
+   Local string &amp;url = GetURL(URL.UIH_BEISEN) | &amp;path;
+   
+   /* 如果Token过期了需要刷新Token */
+   If (%Datetime - &amp;token.create_time) &gt; &amp;token.expires_in Then
+      &amp;token.getToken();
+   End-If;
+   
+   /* 发送请求 */
+   &amp;reqMessage = CreateMessage(Operation.IB_GENERIC_REST_POST, %IntBroker_Request);
+   &amp;reqMessage.URIResourceIndex = 1;
+   &amp;bool = &amp;reqMessage.IBInfo.LoadRESTHeaders();
+   &amp;reqMessage.IBInfo.IBConnectorInfo.ConnectorName = &quot;HTTPTARGET&quot;;
+   &amp;reqMessage.IBInfo.IBConnectorInfo.ConnectorClassName = &quot;HttpTargetConnector&quot;;
+   
+   &amp;bool = &amp;reqMessage.IBInfo.IBConnectorInfo.AddConnectorProperties(&quot;Method&quot;, &quot;POST&quot;, %HttpProperty);
+   &amp;bool = &amp;reqMessage.IBInfo.IBConnectorInfo.AddConnectorProperties(&quot;URL&quot;, &amp;url, %HttpProperty);
+   &amp;bool = &amp;reqMessage.IBInfo.IBConnectorInfo.AddConnectorProperties(&quot;Content-Type&quot;, &quot;application/json;charset=UTF-8&quot;, %Header);
+   &amp;bool = &amp;reqMessage.IBInfo.IBConnectorInfo.AddConnectorProperties(&quot;Authorization&quot;, &amp;token.access_token, %Header);
+   &amp;bool = &amp;reqMessage.SetContentString(&amp;requestBody);
+   &amp;respMessage = %IntBroker.ConnectorRequest(&amp;reqMessage);
+   
+   Return &amp;respMessage;
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2024-05-25-17.50.20.542387</szLastUpdDttm>
+        <szLastUpdOprId>panwx</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>88687</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>C_BEISEN_PKG</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>Token</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>7</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>3961</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>140</lEntryNamesLen>
+              <nEntry>6</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>2</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="3738" count="7">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>TOKEN</szFieldName>
+              <szPackageRoot>C_BEISEN_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod>GETTOKEN</szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MESSAGE</szFieldName>
+              <szPackageRoot>Message</szPackageRoot>
+              <szQualifyPath>Message</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONOBJECT</szFieldName>
+              <szPackageRoot>JsonObject</szPackageRoot>
+              <szQualifyPath>JsonObject</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>OPERATION</szRecName>
+              <szFieldName>IB_GENERIC_REST_POST</szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>URL</szRecName>
+              <szFieldName>UIH_BEISEN</szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>JSONPARSER</szFieldName>
+              <szPackageRoot>JsonParser</szPackageRoot>
+              <szQualifyPath>JsonParser</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>class Token
+   /* 构造函数 */
+   method Token();
+   
+   /* 获取Token */
+   method getToken();
+   
+   /* Token */
+   property string access_token;
+   
+   /* 获取时间 */
+   property datetime create_time;
+   
+   /* 有效期 */
+   property number expires_in;
+end-class;
+
+
+method Token
+   %This.getToken();
+end-method;
+
+
+method getToken
+   Local Message &amp;request_Message, &amp;response_Message;
+   Local string &amp;app_key, &amp;app_secret, &amp;responseText;
+   Local boolean &amp;bool;
+   
+   REM 获取参数;
+   &amp;app_key = MsgGetExplainText(30013, 1, &quot;&quot;);
+   &amp;app_secret = MsgGetExplainText(30013, 2, &quot;&quot;);
+   Local JsonObject &amp;jsonObj = CreateJsonObject();
+   &amp;jsonObj.AddProperty(&quot;grant_type&quot;, &quot;client_credentials&quot;);
+   &amp;jsonObj.AddProperty(&quot;app_key&quot;, &amp;app_key);
+   &amp;jsonObj.AddProperty(&quot;app_secret&quot;, &amp;app_secret);
+   
+   REM 发送请求;
+   &amp;request_Message = CreateMessage(Operation.IB_GENERIC_REST_POST, %IntBroker_Request);
+   &amp;request_Message.URIResourceIndex = 1;
+   &amp;bool = &amp;request_Message.IBInfo.LoadRESTHeaders();
+   &amp;request_Message.IBInfo.IBConnectorInfo.ConnectorName = &quot;HTTPTARGET&quot;;
+   &amp;request_Message.IBInfo.IBConnectorInfo.ConnectorClassName = &quot;HttpTargetConnector&quot;;
+   
+   &amp;bool = &amp;request_Message.IBInfo.IBConnectorInfo.AddConnectorProperties(&quot;Method&quot;, &quot;POST&quot;, %HttpProperty);
+   &amp;bool = &amp;request_Message.IBInfo.IBConnectorInfo.AddConnectorProperties(&quot;URL&quot;, GetURL(URL.UIH_BEISEN) | &quot;/token&quot;, %HttpProperty);
+   &amp;bool = &amp;request_Message.IBInfo.IBConnectorInfo.AddConnectorProperties(&quot;Content-Type&quot;, &quot;application/json;charset=UTF-8&quot;, %Header);
+   &amp;bool = &amp;request_Message.SetContentString(&amp;jsonObj.ToString());
+   &amp;response_Message = %IntBroker.ConnectorRequest(&amp;request_Message);
+   
+   REM 获取返回结果;
+   &amp;responseText = &amp;response_Message.GetContentString();
+   Local number &amp;statusCode = &amp;response_Message.HTTPResponseCode;
+   If &amp;response_Message.HTTPResponseCode = %IB_Status_Success Then
+      REM 解析Json字符串;
+      Local JsonParser &amp;jsonParser = CreateJsonParser();
+      If &amp;jsonParser.Parse(&amp;responseText) Then
+         Local JsonObject &amp;responseObject = &amp;jsonParser.GetRootObject();
+         
+         &amp;access_token = &quot;Bearer &quot; | &amp;responseObject.GetString(&quot;access_token&quot;);
+         &amp;expires_in = &amp;responseObject.GetNumber(&quot;expires_in&quot;);
+         &amp;create_time = %Datetime;
+      End-If;
+   Else
+      throw CreateException(0, 0, &quot;获取Token失败，状态码：&quot; | &amp;statusCode | &quot;，响应报文：&quot; | &amp;responseText);
+   End-If;
+   
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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</peoplecode_blob>
+  </instance>
